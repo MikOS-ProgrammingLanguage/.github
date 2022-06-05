@@ -7,7 +7,7 @@ Mik is a general purpose c-like language that comes with a package manager!
 ### **1. Installing mic & mip**
 
     # 1
-    git clone https://github.com/MikOS-ProgrammingLanguage/MicNewDawn.gi
+    git clone https://github.com/MikOS-ProgrammingLanguage/MicNewDawn.git
     # 2
     cd MicNewDawn
     # 3
