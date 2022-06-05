@@ -1,6 +1,6 @@
 # **🤖 The Mik Programming Language 🤖**
 
-Mik is a general purpose c-like language that comes with a package manager!
+Mik is a general purpose c-like language that comes with a package manager, and other quality of life features!
 
 ## **Getting started**
 
