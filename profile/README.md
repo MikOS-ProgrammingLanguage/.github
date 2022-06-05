@@ -32,7 +32,7 @@ Before we get started with the language itself, I should explain the compiler fl
 |-sec-ign|mic -sec-ign "\<section1>,\<section2>,.."|Is used to ignore certain sections. This means that those sections will not be compiled. For example if you have a debug section you can use sec-ign to exclude this section from compilation|
 |-install|sudo mic -install|Runs a setup for mic and mip. This step is necessary|
 
-2. **MIP compiler flags**
+- **MIP compiler flags**
 
    | Command | Usage | Explanation |
    |:--------|:------|:------------|
