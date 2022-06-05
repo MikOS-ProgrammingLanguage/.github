@@ -15,7 +15,7 @@ Mik is a general purpose c-like language that comes with a package manager!
     # 4
     export PATH = "<your path to mik>:$PATH"
     # 5
-    mic -install
+    sudo mic -install
 
 ### **2. Basics of mic & mip**
 
