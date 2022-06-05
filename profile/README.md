@@ -21,7 +21,7 @@ Mik is a general purpose c-like language that comes with a package manager!
 
 Before we get started with the language itself, I should explain the compiler flags and package manager flags as well as how to upload your own packages to mip!
 
-1. **MIK compiler flags**
+- **MIK compiler flags**
 
 | Command | Usage | Explanation|
 |:--------|:-----|:-----------|
@@ -34,16 +34,16 @@ Before we get started with the language itself, I should explain the compiler fl
 
 - **MIP compiler flags**
 
-   | Command | Usage | Explanation |
-   |:--------|:------|:------------|
-   |install|mip install \<url>|Installs a mik package to the global system packages from github|
-   |update|mip update|Updates all installed packages|
-   |remove|mip remove \<package1> \<package2>, ...|Removes all specified packages from the global system directory|
-   |init|mip init \<path_to_project>|Sets up a new mik project. Use a non existing directory to create a new directory. Use a '.' to init in the current directory|
-   |milk|mip milk|"Milks" the milk.pkg file in the current project. This is used to basically set up a downloaded project. But I go into more detail on milk.pkg later|
-   |list|mip list|Lists all installed package in a tree structure|
-   |add|mik add \<url>|Installs a package to the .pkgs folder in your project|
-   |help|mip help|Get info about all commands|
+| Command | Usage | Explanation |
+|:--------|:------|:------------|
+|install|mip install \<url>|Installs a mik package to the global system packages from github|
+|update|mip update|Updates all installed packages|
+|remove|mip remove \<package1> \<package2>, ...|Removes all specified packages from the global system directory|
+|init|mip init \<path_to_project>|Sets up a new mik project. Use a non existing directory to create a new directory. Use a '.' to init in the current directory|
+|milk|mip milk|"Milks" the milk.pkg file in the current project. This is used to basically set up a downloaded project. But I go into more detail on milk.pkg later|
+|list|mip list|Lists all installed package in a tree structure|
+|add|mik add \<url>|Installs a package to the .pkgs folder in your project|
+|help|mip help|Get info about all commands|
 
 ## **MIP (Mik package manager)**
 
