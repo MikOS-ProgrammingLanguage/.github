@@ -13,7 +13,7 @@ Mik is a general purpose c-like language that comes with a package manager!
     # 3
     make
     # 4
-    export PATH = "<your path to mik>:$PATH
+    export PATH = "<your path to mik>:$PATH"
     # 5
     mic -install
 
