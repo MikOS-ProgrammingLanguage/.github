@@ -8,6 +8,8 @@ Mik is a general purpose c-like language that comes with a package manager!
 
 #### **1.1 From Source**
 
+    Can i copy this
+
 1. `git clone https://github.com/MikOS-ProgrammingLanguage/MicNewDawn.gi`
 2. > cd MicNewDawn
 3. > make
